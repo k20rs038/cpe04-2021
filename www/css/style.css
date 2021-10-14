@@ -8,6 +8,10 @@ button{
   font-family: Times;
   border-radius: 20px;
 }
+button#btnA{
+  background-color: yellow;
+  color: green;
+}
 
     #minuteStr {
         color: #ff0000;
