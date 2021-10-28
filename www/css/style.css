@@ -13,6 +13,16 @@ button#btnA{
   color: black;
   font-weight: bold;
 }
+button#btnB{
+  background-color: greenyellow;
+  color: black;
+  font-weight: bold;
+}
+button#btnC{
+  background-color: rgba(144, 243, 243, 0.555);
+  color: black;
+  font-weight: bold;
+}
 time{
   box-shadow: 5px 5px 5px;
   width: 50%;
